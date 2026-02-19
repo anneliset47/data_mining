@@ -1,6 +1,6 @@
-# U.S. Opioid Crisis: Data-Driven Analysis of Trends, Prescriptions, and Mortality
+## U.S. Opioid Crisis: Data-Driven Analysis of Trends, Prescriptions, and Mortality
 
-## Project Summary
+### Project Summary
 Since 1999, more than 760,000 individuals have died from a drug overdose. 75% of drug overdose deaths in 2020 involved an opioid of some kind.
 
 The opioid crisis was officially declared an emergency in 2017, and the declaration was renewed in June 2024. It is still a crisis today, taking more than 220 lives daily. 
